@@ -65,8 +65,8 @@ C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\bin\Debug\UnityE
 C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\bin\Debug\UnityEngine.ARModule.dll
 C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\bin\Debug\UnityEngine.XRModule.dll
 C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\bin\Debug\KSPAssets.XmlSerializers.dll
-C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.csproj.AssemblyReference.cache
 C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.csproj.CoreCompileInputs.cache
-C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.csproj.CopyComplete
 C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.dll
 C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.pdb
+C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.csproj.AssemblyReference.cache
+C:\Projects\KSP\WildBlueIndustries\WBIWidgets\Source\WBIWidgets\obj\Debug\WBIWidgets.csproj.Up2Date
